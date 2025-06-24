@@ -10,3 +10,4 @@ cloudinary
 alembic
 greenlet
 fastapi-pagination 
+python-multipart
